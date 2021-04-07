@@ -11,10 +11,10 @@ function App() {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo"/>
                 <p>
-                    Lam Fucks.
+                    Lam fucks
                 </p>
                 <p>
-                    don't dm me
+                    .
                 </p>
                 <a
                     className="App-link"
@@ -30,7 +30,7 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    or get cucked sadcumr
+                    don't dm me
                 </a>
             </header>
         </div>
