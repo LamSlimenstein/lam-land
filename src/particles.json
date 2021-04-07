@@ -1,10 +1,10 @@
 {
   "background": {
     "color": {
-      "value": "#282c34"
+      "value": "#000000"
     }
   },
-  "fpsLimit": 60,
+  "fpsLimit": 119,
   "interactivity": {
     "detectsOn": "window",
     "events": {
@@ -30,7 +30,7 @@
       },
       "repulse": {
         "distance": 200,
-        "duration": 0.4
+        "duration": 0.666
       }
     }
   },

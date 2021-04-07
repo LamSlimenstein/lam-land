@@ -11,26 +11,26 @@ function App() {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo"/>
                 <p>
-                    Edit <code>src/App.js</code> and save to reload.
+                    Lam Fucks.
                 </p>
                 <p>
-                    Edit <code>src/particles.json</code> to customize Particles, then save to reload.
+                    don't dm me
                 </p>
                 <a
                     className="App-link"
-                    href="https://reactjs.org"
+                    href="https://www.youtube.com/watch?v=xvFZjo5PgG0"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Learn React
+                    don't click dis
                 </a>
                 <a
                     className="App-link"
-                    href="https://particles.js.org"
+                    href="https://twitter.com/lamslimenstein"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    See Particles samples
+                    or get cucked sadcumr
                 </a>
             </header>
         </div>
