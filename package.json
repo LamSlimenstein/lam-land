@@ -2,6 +2,7 @@
   "name": "nibiru",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://LamSlimenstein.github.io/nibiru/",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
